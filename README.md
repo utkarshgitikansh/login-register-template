@@ -1,6 +1,6 @@
 # login_register_template
 
-A template for login register
+A template for login register using flutter
 
 ## Getting Started
 
